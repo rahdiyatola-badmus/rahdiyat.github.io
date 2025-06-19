@@ -1,5 +1,5 @@
 # 👩🏽‍🔬 Rahdiyat Olaitan
-**Microbiology Graduate | Aspiring Bioinformatician**  
+**First-class Microbiology Graduate | Aspiring Bioinformatician**  
 📍 Lagos, Nigeria  
 🎓 MSc Bioinformatics of Infectious Disease (Applicant) 
 
