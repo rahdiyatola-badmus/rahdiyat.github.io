@@ -34,7 +34,7 @@ This project investigates the bacterial community structure and geochemistry of 
 
 ## 📫 Contact Me
 - **Email**: badmusrahdiyat@gmail.com 
-- **GitHub**: https://github.com.rahdiyatola-badmus
+- **GitHub**: https://github.com/rahdiyatola-badmus
 - **LinkedIn**: www.linkedin.com/in/rahdiyatola-badmus
 
 
